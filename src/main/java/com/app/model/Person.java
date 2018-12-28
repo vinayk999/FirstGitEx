@@ -14,6 +14,9 @@ public class Person {
 	private int pid;
 	private String pname;
 
+	public void m1(){
+		
+	}
 	public int getPid() {
 		return pid;
 	}
