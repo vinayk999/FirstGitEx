@@ -13,7 +13,7 @@ public class Person {
 	@Id
 	private int pid;
 	private String pname;
-
+//
 	public void m1(){
 		
 	}
